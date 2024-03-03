@@ -1,0 +1,8 @@
+parameter,parameter_description,value,units,min,max,sd,distribution,source
+food_value_usd,Value of seaweed used for food in USD,650,$USD / tDW,500,800,NA,tri,DeAngelo et al. 2023
+feed_value_usd,Value of seaweed used for animal feed in USD,450,$USD / tDW,400,500,NA,tri,DeAngelo et al. 2023
+fuel_value_usd,Value of seaweed used for biofuel in USD,430,$USD / tDW,400,500,NA,tri,DeAngelo et al. 2023
+production_cost_usd,Costs for producing seaweed in USD,0.256,$USD / m2,0.233,0.326,NA,tri,Coleman et al. 2022
+transport_cost_usd,Transport costs in USD,0.225,$USD / tWW / km,0.1,0.35,NA,tri,DeAngelo et al. 2023
+processing_cost_usd,Processing costs in USD,48,$USD / tDW,20,80,NA,tri,DeAngelo et al. 2023
+usd_to_cad,Average 2023 conversion rate from USD to CAD ,1.3497,$USD / $CAD,NA,NA,NA,NA,Bank of Canada (https://www.bankofcanada.ca/rates/exchange/annual-average-exchange-rates/)
